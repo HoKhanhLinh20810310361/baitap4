@@ -35,7 +35,7 @@ const styles = StyleSheet.create({
     fontSize:20,
     width:100,
     height:100,
-    backgroundColor:'pink',
+    backgroundColor:'blue',
     alignItems: 'center',
     justifyContent: 'center',
     
@@ -45,7 +45,7 @@ const styles = StyleSheet.create({
     fontSize:20,
     width:100,
     height:100,
-    backgroundColor:'green',
+    backgroundColor:'yellow',
     alignItems: 'center',
     justifyContent: 'center',
     
@@ -55,7 +55,7 @@ const styles = StyleSheet.create({
     fontSize:20,
     width:100,
     height:100,
-    backgroundColor:'blue',
+    backgroundColor:'pink',
     alignItems: 'center',
     justifyContent: 'center',
     
